@@ -1,1 +1,0 @@
-Spanda Day1
