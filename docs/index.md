@@ -1,5 +1,5 @@
 
-**<span style="text-decoration:underline;">Spanda Bootcamp Day One</span>**
+**<span style="text-decoration:underline;">Spanda Boot--camp Day One</span>**
 
 **<span style="text-decoration:underline;">Section 0(Pre-requisites)____________________________</span>**
 

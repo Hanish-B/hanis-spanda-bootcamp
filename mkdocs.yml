@@ -50,7 +50,8 @@ markdown_extensions:
 copyright: |
   &copy; 2024 <a href="https://spanda.io"  target="_blank" rel="noopener">Spanda.io</a>
 
-
+theme:
+  name: material
 
 
 
